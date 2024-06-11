@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>proyecto gib</title>
+</head>
+<body style="background-color: black;">
+    <h1 style="color: brown;">prueba de github</h1>
+    <br>
+    <h2 style="color: blue;">mi nombre es yahirMendoza y voy a dominar el mundo JAJAJA XDXD</h2>
+<button><h2 style="color: blue;"> soy ese miauu</h2></button> <br>
+
+<img src="https://pbs.twimg.com/media/EIW55xzXsAAxVRH.jpg:large" alt="" height="200px">
+</body>
+</html>
